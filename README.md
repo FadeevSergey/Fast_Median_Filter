@@ -14,6 +14,7 @@
 2) Сольем secondTempArray и thirdTempArray, назовем новый массив result.
 3) Медиана F - это медиана слияния result с firstTempArray
 4) Медиана S - это медиана слияния result с secondTempArray
+
 *Операция слияния аналогична одноименной операции в mergeSort* 
 
 
